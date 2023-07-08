@@ -5,4 +5,6 @@
 - O projeto consiste na contrução de um jogo chamado Tempo de Resposta, onde é exigido do jogador o tempo de percepção e resposta.
 
 - O jogo possui 6 leds e 5 botões e um display de 7 segmentos.
+![preview](/assets/circuito3D.jpeg)
+
 
